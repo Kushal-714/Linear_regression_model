@@ -1,6 +1,6 @@
 # Sales-Forecasting
 
-I made this jupyter notebook to forecast bike accesorries sales using linear regression model.
+I made this jupyter notebook to forecast bike accesorries revenue using linear regression model.
 
 Riding accesory dataset contain different features like date, year, month, customer age, gender, country, state, product category, sub category, quantity, unit price, cost, revenue.
 
